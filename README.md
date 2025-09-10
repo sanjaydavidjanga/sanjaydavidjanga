@@ -24,12 +24,9 @@ Here are some of my key repositories:
 
 ---
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
----
 
 ## 🌐 Connect with Me
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/your-linkedin)  
-- Portfolio: [Your Website](https://your-portfolio.com)  
+- LinkedIn: [Your Profile](www.linkedin.com/in/sanjay-david-janga-0963b4283
+
+)  
+-
