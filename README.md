@@ -9,7 +9,7 @@
 - 🌱 Currently learning **Cybersecurity, Machine Learning, and Threat Intelligence**
 - 🛡️ Passionate about **Offensive Security, Intrusion Detection, and Red Teaming**
 - 🤝 Open to collaborating on **Cybersecurity and ML-based projects**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **sanjaydavidjangaa@gmail.com**
 
 ---
 
@@ -26,7 +26,5 @@ Here are some of my key repositories:
 
 
 ## 🌐 Connect with Me
-- LinkedIn: [Your Profile](www.linkedin.com/in/sanjay-david-janga-0963b4283
-
-)  
--
+- LinkedIn:www.linkedin.com/in/sanjay-david-janga-0963b4283
+  -
